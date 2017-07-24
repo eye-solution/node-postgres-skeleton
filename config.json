@@ -1,0 +1,22 @@
+{
+  "server": {
+    "port": "3000"
+  },
+  "client": {
+    "app_id": "",
+    "app_secret": ""
+  },
+  "database": {
+    "username": "postgres",
+    "password": "yourpassword",
+    "database": "mydb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "3rd_party": {
+    "token": "a 3rd party service token",
+    "baseUrl": "https://3rdpartyservice.com/rest/",
+    "key1": "value1",
+    "key2": "value2"
+  }
+}
